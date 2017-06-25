@@ -8,5 +8,6 @@ To run, go to terminal
 If python3 is not the default python version on your computer make sure to type python3
 
 cd 'directory that this file is located in'
+
 python3 cnn_mnist.py
 
